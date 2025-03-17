@@ -13,3 +13,5 @@ AM Final Project Results DT.ipynb - Decision Tree with outliers left in
 AM Final Project Results no outliers DT.ipynb - Decision Tree with outliers removed
 
 AM Final Project - Correlations, descriptive statistics and box plots for data
+
+Andrew Part 2 V.2.docx - Report of research and link to the data referenced in the ipynb/pdf files 
